@@ -26,8 +26,8 @@ This analysis will inform what this strategy might look like to ensure Instacart
 
 # Data Sets
 Datasets were presented by CareerFoundry:
-[Customers] (https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-[Departments] ()
-[Orders] ()
-[Orders_Products_Prior] ()
-[Products] ()
+- [Customers] 
+- [Departments] 
+- [Orders] 
+- [Orders_Products_Prior] 
+- [Products] 
