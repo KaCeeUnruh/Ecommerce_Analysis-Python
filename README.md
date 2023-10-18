@@ -1,5 +1,3 @@
-"C:\Users\kacee\OneDrive\Pictures\Instacart.png"
-
 # Ecommerce Analysis - Python Project
 CareerFoundry data analysis for Instacart
 
